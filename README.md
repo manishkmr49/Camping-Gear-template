@@ -1,6 +1,6 @@
 # Camping Gear Website
 
-![Website Preview](website-preview.png)
+
 ![image](https://github.com/manishkmr49/Camping-Gear-template/assets/110106315/348a9357-72e2-47ed-ac22-7ad25b9ddb02)
 
 
